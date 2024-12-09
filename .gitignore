@@ -1,0 +1,3 @@
+# .env contains sensitive credential information ; node_modules is heavy and thus should not be pushed to github; the node modules can be created from the package.json
+.env
+node_modules 
